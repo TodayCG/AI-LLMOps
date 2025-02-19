@@ -102,6 +102,7 @@ const translation = {
       Programming: '编程',
     },
   },
+  edit: '编辑',
   editApp: '编辑信息',
   editAppTitle: '编辑应用信息',
   editDone: '应用信息已更新',
@@ -173,7 +174,6 @@ const translation = {
       removeConfirmContent: '当前配置正在使用中，删除它将关闭追踪功能。',
     },
   },
-  openInExplore: '在“探索”中打开',
   showMyCreatedAppsOnly: '我创建的',
 }
 

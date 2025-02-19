@@ -1,7 +1,7 @@
 const translation = {
   title: '工具',
   createCustomTool: '创建自定义工具',
-  customToolTip: '了解更多关于 Dify 自定义工具的信息',
+  customToolTip: '了解更多关于 SHJFlow 自定义工具的信息',
   type: {
     all: '全部',
     builtIn: '内置',
@@ -10,7 +10,7 @@ const translation = {
   },
   contribute: {
     line1: '我有兴趣为 ',
-    line2: 'Dify 贡献工具。',
+    line2: 'SHJFlow 贡献工具。',
     viewGuide: '查看指南',
   },
   author: '作者',
@@ -148,7 +148,7 @@ const translation = {
   toolRemoved: '工具已被移除',
   notAuthorized: '工具未授权',
   howToGet: '如何获取',
-  openInStudio: '在工作室中打开',
+  openInStudio: '在应用中心中打开',
   toolNameUsageTip: '工具调用名称，用于 Agent 推理和提示词',
 }
 
